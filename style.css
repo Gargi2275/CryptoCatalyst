@@ -10,12 +10,12 @@
 :root {
     --black: #000;
     --white: #ffffff;
-    --lightgrey: #f1f1f1;
-    --darkblue: #0d102c;
-    --primarycolor: #3d51f2;
-    --secondarycolor: #5670ef;
-    --lightDark: #080A25;
-    --darkText: #8388B4;
+    --lightgrey: #EFE1D1;
+    --darkblue: #261C2C;
+    --primarycolor: #5C527F;
+    --secondarycolor: #6E85B2;
+    --lightDark: #6E85B2;
+    --darkText: #fff;
 }
 
 body {
@@ -74,8 +74,7 @@ header {
     font-size: 1rem;
     width: 100%;
     font-weight: 500;
-    margin-bottom: 1.5rem;
-    /* margin-left: 180px; */
+    margin-bottom: 1.5rem;    
     text-transform: uppercase;
     cursor: pointer;
     white-space: nowrap;
